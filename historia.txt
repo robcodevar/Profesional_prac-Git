@@ -1,13 +1,5 @@
 hola este un texto conseguido en nano ][
 
-Se usar nano , pero parece muy sencillo de utilizar , al 
-parecer es mas facil que vim
+No se como se usa nano , pero parece muy sencillo de utilizar , al parecer es mas facil que vim
 
-En realidad vim es sencillo solo si aprendes todas las 
-abreviaturas del teclado
-
-Parece que en este archivo existen problemas con los valores 
-de LF
-y CTRLF
-
-Tambien existen otros editores de texto y IAs que los complementan.
+Mañana nos enfocaremos en la vida de un programador sin editores de codigo.

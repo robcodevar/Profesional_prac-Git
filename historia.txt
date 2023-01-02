@@ -10,4 +10,4 @@ Parece que en este archivo existen problemas con los valores
 de LF
 y CTRLF
 
-Tambien existen otros editores de texto .
+Tambien existen otros editores de texto y IAs que los complementan.
